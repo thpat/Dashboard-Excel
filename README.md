@@ -1,0 +1,3 @@
+# Dashboard-Excel
+Use PivotTable Analyze, Pivot chart, Clean Data, Fomat Cell, Calculated  Item...
+<img width="563" alt="ex" src="https://user-images.githubusercontent.com/107706635/226281324-ab5944cb-673b-4fed-bdf6-ef7ddce0a0b2.png">
